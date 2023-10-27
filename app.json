@@ -13,10 +13,9 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "Guru_ReserveTorpedo
-",
+      "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Guru_ReserveTorpedo"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
